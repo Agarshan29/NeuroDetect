@@ -1,0 +1,82 @@
+{
+    "Glioma": {
+        "description": "Gliomas are tumors that start in glial cells of the brain or spinal cord.",
+        "grade": "Varies (I-IV); higher grade is more aggressive.",
+        "typical_symptoms": [
+            "Headaches",
+            "Seizures",
+            "Weakness",
+            "Cognitive changes"
+        ],
+        "diagnostic_tests": [
+            "MRI",
+            "CT Scan",
+            "Biopsy"
+        ],
+        "treatment_options": [
+            "Surgery",
+            "Radiation therapy",
+            "Chemotherapy",
+            "Targeted therapy",
+            "Clinical trials"
+        ],
+        "prognosis": "Highly variable depending on grade, type, and location."
+    },
+    "Meningioma": {
+        "description": "Meningiomas are tumors arising from the meninges surrounding the brain and spinal cord.",
+        "grade": "Mostly benign (Grade I), but can be atypical (Grade II) or malignant (Grade III).",
+        "typical_symptoms": [
+            "Headaches",
+            "Vision changes",
+            "Seizures",
+            "Weakness"
+        ],
+        "diagnostic_tests": [
+            "MRI",
+            "CT Scan"
+        ],
+        "treatment_options": [
+            "Observation (if small and asymptomatic)",
+            "Surgery",
+            "Radiation therapy",
+            "Stereotactic radiosurgery"
+        ],
+        "prognosis": "Generally good for benign tumors that can be completely removed."
+    },
+    "No Tumor": {
+        "description": "No tumor detected in the image.",
+        "grade": "N/A",
+        "typical_symptoms": "N/A",
+        "diagnostic_tests": [
+            "Review imaging details",
+            "Consider differential diagnoses"
+        ],
+        "treatment_options": [
+            "None (if confirmed no tumor)",
+            "Further investigation"
+        ],
+        "prognosis": "Excellent."
+    },
+    "Pituitary": {
+        "description": "Pituitary tumors are abnormal growths in the pituitary gland. Can be hormone-secreting or non-secreting.",
+        "grade": "Usually benign (adenomas).",
+        "typical_symptoms": [
+            "Hormonal imbalances",
+            "Vision problems",
+            "Headaches",
+            "Fatigue"
+        ],
+        "diagnostic_tests": [
+            "MRI",
+            "Hormone level tests",
+            "Visual field testing"
+        ],
+        "treatment_options": [
+            "Observation",
+            "Medication",
+            "Surgery (Transsphenoidal surgery)",
+            "Radiation therapy"
+        ],
+        "prognosis": "Generally good with treatment; depends on hormone involvement and tumor size."
+    }
+}
